@@ -1,0 +1,6 @@
+C:\Users\lemus\source\repos\modulo 1\M1_NETS319\M1NET_S319_ABSTRACT\bin\Debug\M1NET_S319_ABSTRACT.exe.config
+C:\Users\lemus\source\repos\modulo 1\M1_NETS319\M1NET_S319_ABSTRACT\bin\Debug\M1NET_S319_ABSTRACT.exe
+C:\Users\lemus\source\repos\modulo 1\M1_NETS319\M1NET_S319_ABSTRACT\bin\Debug\M1NET_S319_ABSTRACT.pdb
+C:\Users\lemus\source\repos\modulo 1\M1_NETS319\M1NET_S319_ABSTRACT\obj\Debug\M1NET_S319T3_ABSTRACT.csproj.CoreCompileInputs.cache
+C:\Users\lemus\source\repos\modulo 1\M1_NETS319\M1NET_S319_ABSTRACT\obj\Debug\M1NET_S319_ABSTRACT.exe
+C:\Users\lemus\source\repos\modulo 1\M1_NETS319\M1NET_S319_ABSTRACT\obj\Debug\M1NET_S319_ABSTRACT.pdb

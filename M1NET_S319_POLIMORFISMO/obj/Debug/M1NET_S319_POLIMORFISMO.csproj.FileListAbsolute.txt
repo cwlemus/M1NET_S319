@@ -1,0 +1,7 @@
+C:\Users\lemus\source\repos\modulo 1\M1_NETS319\M1NET_S319_POLIMORFISMO\bin\Debug\M1NET_S319_POLIMORFISMO.exe.config
+C:\Users\lemus\source\repos\modulo 1\M1_NETS319\M1NET_S319_POLIMORFISMO\bin\Debug\M1NET_S319_POLIMORFISMO.exe
+C:\Users\lemus\source\repos\modulo 1\M1_NETS319\M1NET_S319_POLIMORFISMO\bin\Debug\M1NET_S319_POLIMORFISMO.pdb
+C:\Users\lemus\source\repos\modulo 1\M1_NETS319\M1NET_S319_POLIMORFISMO\obj\Debug\M1NET_S319_POLIMORFISMO.csprojAssemblyReference.cache
+C:\Users\lemus\source\repos\modulo 1\M1_NETS319\M1NET_S319_POLIMORFISMO\obj\Debug\M1NET_S319_POLIMORFISMO.csproj.CoreCompileInputs.cache
+C:\Users\lemus\source\repos\modulo 1\M1_NETS319\M1NET_S319_POLIMORFISMO\obj\Debug\M1NET_S319_POLIMORFISMO.exe
+C:\Users\lemus\source\repos\modulo 1\M1_NETS319\M1NET_S319_POLIMORFISMO\obj\Debug\M1NET_S319_POLIMORFISMO.pdb

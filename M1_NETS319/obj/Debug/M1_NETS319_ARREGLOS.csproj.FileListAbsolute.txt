@@ -1,0 +1,7 @@
+C:\Users\lemus\source\repos\modulo 1\M1_NETS319\M1_NETS319\bin\Debug\M1_NETS319.exe.config
+C:\Users\lemus\source\repos\modulo 1\M1_NETS319\M1_NETS319\bin\Debug\M1_NETS319.exe
+C:\Users\lemus\source\repos\modulo 1\M1_NETS319\M1_NETS319\bin\Debug\M1_NETS319.pdb
+C:\Users\lemus\source\repos\modulo 1\M1_NETS319\M1_NETS319\obj\Debug\M1_NETS319_ARREGLOS.csprojAssemblyReference.cache
+C:\Users\lemus\source\repos\modulo 1\M1_NETS319\M1_NETS319\obj\Debug\M1_NETS319_ARREGLOS.csproj.CoreCompileInputs.cache
+C:\Users\lemus\source\repos\modulo 1\M1_NETS319\M1_NETS319\obj\Debug\M1_NETS319.exe
+C:\Users\lemus\source\repos\modulo 1\M1_NETS319\M1_NETS319\obj\Debug\M1_NETS319.pdb

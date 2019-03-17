@@ -1,0 +1,7 @@
+C:\Users\lemus\source\repos\modulo 1\M1_NETS319\M1NET_S319_OVERRIDE\obj\Debug\M1NET_S319_OVERRIDE.csprojAssemblyReference.cache
+C:\Users\lemus\source\repos\modulo 1\M1_NETS319\M1NET_S319_OVERRIDE\obj\Debug\M1NET_S319_OVERRIDE.csproj.CoreCompileInputs.cache
+C:\Users\lemus\source\repos\modulo 1\M1_NETS319\M1NET_S319_OVERRIDE\bin\Debug\M1NET_S319_OVERRIDE.exe.config
+C:\Users\lemus\source\repos\modulo 1\M1_NETS319\M1NET_S319_OVERRIDE\bin\Debug\M1NET_S319_OVERRIDE.exe
+C:\Users\lemus\source\repos\modulo 1\M1_NETS319\M1NET_S319_OVERRIDE\bin\Debug\M1NET_S319_OVERRIDE.pdb
+C:\Users\lemus\source\repos\modulo 1\M1_NETS319\M1NET_S319_OVERRIDE\obj\Debug\M1NET_S319_OVERRIDE.exe
+C:\Users\lemus\source\repos\modulo 1\M1_NETS319\M1NET_S319_OVERRIDE\obj\Debug\M1NET_S319_OVERRIDE.pdb
